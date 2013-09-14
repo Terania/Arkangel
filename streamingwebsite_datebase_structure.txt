@@ -1,0 +1,61 @@
+/*
+
+  -xxxx-	: Database
+ --xxxx--	: Table
+---xxxx---	: Column
+
+*/
+-users-
+
+--default--
+	---id---
+	---username---
+	---firstname---
+	---lastname---
+	---email---
+	---password---
+	---datesignedin---
+	---banned---
+	---country---
+	---ipadress---
+
+
+--gold--
+
+	---id---
+	---username---
+	---firstname---
+	---lastname---
+	---email---
+	---password---
+	---datesignedin---
+	---banned---
+	---country---
+	---ipadress---
+	---substartdate---
+
+
+--platine--
+	---id---
+	---username---
+	---firstname---
+	---lastname---
+	---email---
+	---password---
+	---datesignedin---
+	---banned---
+	---country---
+	---ipadress---
+	---substartdate---
+	---encryptionlevel---
+
+-videos-
+
+--movies--
+	---id---
+	
+--series--
+	---id---
+
+-anime--
+	---id---
