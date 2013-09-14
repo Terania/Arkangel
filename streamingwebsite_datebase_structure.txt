@@ -72,9 +72,9 @@
 	---size---
 	---postdate---
 	---publisherid---
-	---episodenumber---
 	---seriesname---
-	
-	
--anime--
-	---id---
+	---episodenumber---
+	---seasonnumber---
+	---director---
+	---producer---
+	---writer---
