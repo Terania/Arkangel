@@ -1,10 +1,9 @@
 /*
-
   -xxxx-	: Database
  --xxxx--	: Table
 ---xxxx---	: Column
-
 */
+
 -users-
 
 --default--
@@ -53,9 +52,29 @@
 
 --movies--
 	---id---
+	---name---
+	---length---
+	---width---
+	---height---
+	---size---
+	---postdate---
+	---publisherid---
+	---director---
+	---producer---
+	---genre---
 	
 --series--
 	---id---
-
+	---name---
+	---length---
+	---width---
+	---height---
+	---size---
+	---postdate---
+	---publisherid---
+	---episodenumber---
+	---seriesname---
+	
+	
 -anime--
 	---id---
